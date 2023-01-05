@@ -8,5 +8,6 @@ quoteButton.addEventListener("click", () => {
         .then((data) => {
             console.log(data)
             document.getElementById("quote-text").innerHTML = data.body
+            document.getElementById("quote-author").innerHTML = data.author
         })
 })
