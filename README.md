@@ -8,4 +8,4 @@ The application can be run locally in browser by using:
 
 ```npx live-server```
 
-()[./stoic-quote-generator.png]
+![](./stoic-quote-generator.png)
